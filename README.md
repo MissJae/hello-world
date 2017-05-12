@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+missjae here, i love learning new things.
+new things i love
